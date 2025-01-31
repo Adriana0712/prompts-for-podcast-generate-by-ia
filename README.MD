@@ -40,14 +40,12 @@ Utilizer uma esteira de prompts para gerar cada etapa do processo criativo.
 - [ChatGPT](https://chat.openai.com/) 
 - [Gemini](https://gemini.google.com/app/360d41ebda7006ff?hl=pt-BR)
 - [ElevenLabs](https://beta.elevenlabs.io/)
-- [Capcut](https://www.capcut.com/pt-br/)
 
 ## ✨ Como foi feito ?
 
 - Roteiro gerado via chatgpt
 - Audio gerado pela elevenLabs
-- Midjourney Para gerar capas
-- Capcut para tratar aúdio e adicionar sons de fundo
+- Gemini Para gerar capas
 
 ## 📚 Materiais
 
@@ -62,7 +60,7 @@ Utilize os prompts dentro do link do `Notion` fornecido na parte de `Materiais` 
 
 - 🤖 1. Use os prompts de roteiro no `chagpt`
 - 🤖 2. Use os prompts de roteiro gerados pelo chatgpt no  `ElevenLabs`
-- 🤖 3. Use os prompts de artes no `midjourney`
+- 🤖 3. Use os prompts de artes no `Gemini`
 
 ## 👨‍💻 Expert
 
@@ -71,12 +69,12 @@ Utilize os prompts dentro do link do `Notion` fornecido na parte de `Materiais` 
       align=left 
       margin=10 
       width=80 
-      src="https://avatars.githubusercontent.com/u/37452836?v=4"
+      src="https://github.com/Adriana0712/prompts-for-podcast-generate-by-ia/edit/main/README.MD"
     />
     <p>&nbsp&nbsp&nbspFelipe Aguiar<br>
     &nbsp&nbsp&nbsp
     <a 
-        href="https://github.com/felipeAguiarCode">
+        href="https://github.com/Adriana0712/prompts-for-podcast-generate-by-ia/edit/main/README.MD">
         GitHub
     </a>
     &nbsp;|&nbsp;
@@ -96,4 +94,4 @@ Utilize os prompts dentro do link do `Notion` fornecido na parte de `Materiais` 
 
 ---
 
-⌨️ com 💜 por [Felipe Aguiar](https://github.com/felipeAguiarCode)
+⌨️ com 💜 por [ADRIANA CARVALHO](https://github.com/Adriana0712/prompts-for-podcast-generate-by-ia/edit/main/README.MD)
