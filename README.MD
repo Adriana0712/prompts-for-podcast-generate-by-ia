@@ -71,7 +71,7 @@ Utilize os prompts dentro do link do `Notion` fornecido na parte de `Materiais` 
       width=80 
       src="https://github.com/Adriana0712/prompts-for-podcast-generate-by-ia/edit/main/README.MD"
     />
-    <p>&nbsp&nbsp&nbspFelipe Aguiar<br>
+    <p>&nbsp&nbsp&nbspAdriana Carvalho<br>
     &nbsp&nbsp&nbsp
     <a 
         href="https://github.com/Adriana0712/prompts-for-podcast-generate-by-ia/edit/main/README.MD">
